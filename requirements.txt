@@ -1,0 +1,10 @@
+# Python report engine. React UI dependencies are in package.json/package-lock.json.
+pandas>=2.2,<3.1
+python-pptx==1.0.2
+openpyxl==3.1.5
+Pillow>=10,<13
+lxml>=5,<7
+XlsxWriter==3.2.5
+typing_extensions>=4.12
+# Optional local upload/download interface: streamlit run local_app.py
+streamlit>=1.40,<2

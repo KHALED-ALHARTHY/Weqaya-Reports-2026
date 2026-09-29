@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "ipccc-001",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Alkamel Hospital"
+  },
+  {
+    "id": "ipccc-002",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Ibn Sina Hospital"
+  },
+  {
+    "id": "ipccc-003",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "King Abdul-Aziz Hospital"
+  },
+  {
+    "id": "ipccc-004",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "South Alqunfutha Hospital"
+  },
+  {
+    "id": "ipccc-005",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Ajyad Emergency Hospital"
+  },
+  {
+    "id": "ipccc-006",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Hera General Hospital"
+  },
+  {
+    "id": "ipccc-007",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Alqunfutha General Hospital"
+  },
+  {
+    "id": "ipccc-008",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Maternity & Children Hospital"
+  },
+  {
+    "id": "ipccc-009",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Khulais General Hospital"
+  },
+  {
+    "id": "ipccc-010",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Al-Noor Specialist Hospital"
+  },
+  {
+    "id": "ipccc-011",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Thuraiban Hospital"
+  },
+  {
+    "id": "ipccc-012",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Namerah Hospital"
+  },
+  {
+    "id": "ipccc-013",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "King Faisal Hospital"
+  },
+  {
+    "id": "ipccc-014",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "Almudhailaf Hospital"
+  },
+  {
+    "id": "ipccc-015",
+    "program": "ipccc",
+    "group": "Government MOH Hospitals",
+    "name": "King Abdulla Medical City"
+  },
+  {
+    "id": "ipccc-016",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Alsaedi Hospital"
+  },
+  {
+    "id": "ipccc-017",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Dr. Awadd Albeshri Hospital"
+  },
+  {
+    "id": "ipccc-018",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Saudi Germani Hospital"
+  },
+  {
+    "id": "ipccc-019",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Alshefa Hospital"
+  },
+  {
+    "id": "ipccc-020",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Bashrahil Hospital"
+  },
+  {
+    "id": "ipccc-021",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Makkah Medical Hospital"
+  },
+  {
+    "id": "ipccc-022",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Saudi National Hospital"
+  },
+  {
+    "id": "ipccc-023",
+    "program": "ipccc",
+    "group": "Private Hospitals",
+    "name": "Jawar Hospital"
+  },
+  {
+    "id": "ipccc-024",
+    "program": "ipccc",
+    "group": "Non-MOH Government Hospital",
+    "name": "Security Forces Hospital"
+  },
+  {
+    "id": "hh-025",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Hera General Hospital"
+  },
+  {
+    "id": "hh-026",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Maternity & Children Hospital"
+  },
+  {
+    "id": "hh-027",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "King Abdulla Medical City"
+  },
+  {
+    "id": "hh-028",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "King Faisal Hospital"
+  },
+  {
+    "id": "hh-029",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Ibn Sina Hospital"
+  },
+  {
+    "id": "hh-030",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Ajyad Emergency Hospital"
+  },
+  {
+    "id": "hh-031",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Alqunfutha General Hospital"
+  },
+  {
+    "id": "hh-032",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "South Alqunfutha Hospital"
+  },
+  {
+    "id": "hh-033",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Almudhailaf Hospital"
+  },
+  {
+    "id": "hh-034",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Thuraiban Hospital"
+  },
+  {
+    "id": "hh-035",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Al-Saedy hospital (Jamoom)"
+  },
+  {
+    "id": "hh-036",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Dr. Awadd Albeshri Hospital"
+  },
+  {
+    "id": "hh-037",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Saudi Germani Hospital"
+  },
+  {
+    "id": "hh-038",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Bashrahil Hospital"
+  },
+  {
+    "id": "hh-039",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Alshefa Hospital"
+  },
+  {
+    "id": "hh-040",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Saudi National Hospital"
+  },
+  {
+    "id": "hh-041",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Makkah Medical Hospital"
+  },
+  {
+    "id": "hh-042",
+    "program": "hh",
+    "group": "Private Hospitals",
+    "name": "Jiwar for Medical services hospital"
+  },
+  {
+    "id": "hh-043",
+    "program": "hh",
+    "group": "Non-MOH Government Hospital",
+    "name": "Security Forces Hospital"
+  },
+  {
+    "id": "hh-044",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "King Abdul-Aziz Hospital"
+  },
+  {
+    "id": "hh-045",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Al-Noor Specialist Hospital"
+  },
+  {
+    "id": "hh-046",
+    "program": "hh",
+    "group": "Dental Centers",
+    "name": "Al-Zaher Specialist Dental Center",
+    "arabicName": "مركز الأسنان التخصصي بالزاهر"
+  },
+  {
+    "id": "hh-047",
+    "program": "hh",
+    "group": "Dental Centers",
+    "name": "Al-Noor Specialist Dental Center",
+    "arabicName": "مركز الأسنان التخصصي بالنور"
+  },
+  {
+    "id": "hh-181",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Alkamel Hospital"
+  },
+  {
+    "id": "hh-182",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Khulais General Hospital"
+  },
+  {
+    "id": "hh-183",
+    "program": "hh",
+    "group": "Government MOH Hospitals",
+    "name": "Namerah Hospital"
+  },
+  {
+    "id": "hh-184",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlGhareefien phc"
+  },
+  {
+    "id": "hh-048",
+    "program": "hh",
+    "group": "Dental Centers",
+    "name": "AL-Qunfodah Specialist Dental Center"
+  },
+  {
+    "id": "hh-049",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Sheraya Diaverum"
+  },
+  {
+    "id": "hh-050",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Awali Diaverum"
+  },
+  {
+    "id": "hh-051",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Khulais Daiverum"
+  },
+  {
+    "id": "hh-052",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Qunfutha Diaverum"
+  },
+  {
+    "id": "hh-053",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Gouz Diaverum"
+  },
+  {
+    "id": "hh-054",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Nemerah Diaverum"
+  },
+  {
+    "id": "hh-055",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Aziziyah Davita"
+  },
+  {
+    "id": "hh-056",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Umm Al-Qura Medical compliex"
+  },
+  {
+    "id": "hh-057",
+    "program": "hh",
+    "group": "HD Private Centers",
+    "name": "Wellcare General medical complex"
+  },
+  {
+    "id": "hh-058",
+    "program": "hh",
+    "group": "HD Charity Centers",
+    "name": "Shefa Charity Center"
+  },
+  {
+    "id": "hh-059",
+    "program": "hh",
+    "group": "HD Charity Centers",
+    "name": "Alrahmah Charity Center"
+  },
+  {
+    "id": "hh-060",
+    "program": "hh",
+    "group": "HD Charity Centers",
+    "name": "Alsittin charity center"
+  },
+  {
+    "id": "hh-061",
+    "program": "hh",
+    "group": "HD Charity Centers",
+    "name": "Samir Alnajar Charity"
+  },
+  {
+    "id": "hh-062",
+    "program": "hh",
+    "group": "HD Charity Centers",
+    "name": "Albar Charity Center"
+  },
+  {
+    "id": "hh-063",
+    "program": "hh",
+    "group": "HD Charity Centers",
+    "name": "sulaiman charty Center"
+  },
+  {
+    "id": "hh-064",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlKamel phc"
+  },
+  {
+    "id": "hh-065",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Khulais phc"
+  },
+  {
+    "id": "hh-066",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Namerah phc"
+  },
+  {
+    "id": "hh-067",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Abu Shuaib phc"
+  },
+  {
+    "id": "hh-068",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Abu Orwah phc"
+  },
+  {
+    "id": "hh-069",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Ain Shams phc"
+  },
+  {
+    "id": "hh-070",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlAdl phc"
+  },
+  {
+    "id": "hh-071",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlAwali phc"
+  },
+  {
+    "id": "hh-072",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlAzizia AlSharqia phc"
+  },
+  {
+    "id": "hh-073",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlBarza phc"
+  },
+  {
+    "id": "hh-074",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlBuhairat phc"
+  },
+  {
+    "id": "hh-075",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlBejaidi phc"
+  },
+  {
+    "id": "hh-076",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlDawarah phc"
+  },
+  {
+    "id": "hh-077",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlDhabia w AlJumaa phc"
+  },
+  {
+    "id": "hh-078",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlDhiafah phc"
+  },
+  {
+    "id": "hh-079",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlFawarah phc in Makkah"
+  },
+  {
+    "id": "hh-080",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Al-Ghurayfain PHC"
+  },
+  {
+    "id": "hh-081",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlHajla phc"
+  },
+  {
+    "id": "hh-082",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlHindawia phc Makkah"
+  },
+  {
+    "id": "hh-083",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlHanoo phc"
+  },
+  {
+    "id": "hh-084",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Al Hamimah phc"
+  },
+  {
+    "id": "hh-085",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlHusainiah phc"
+  },
+  {
+    "id": "hh-086",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlEskan phc"
+  },
+  {
+    "id": "hh-087",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlJumoum phc"
+  },
+  {
+    "id": "hh-088",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlKaakeya phc"
+  },
+  {
+    "id": "hh-089",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlKhalediah phc in Makkah"
+  },
+  {
+    "id": "hh-091",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlKur shdad phc"
+  },
+  {
+    "id": "hh-092",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlKhadraa phc"
+  },
+  {
+    "id": "hh-093",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlKhuwar phc"
+  },
+  {
+    "id": "hh-094",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMaabdeh phc"
+  },
+  {
+    "id": "hh-095",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMadiq phc"
+  },
+  {
+    "id": "hh-096",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMalawii phc"
+  },
+  {
+    "id": "hh-097",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMansour phc"
+  },
+  {
+    "id": "hh-098",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMagrah phc"
+  },
+  {
+    "id": "hh-099",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlEiyab w AlMazarea phc"
+  },
+  {
+    "id": "hh-100",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMedhat phc"
+  },
+  {
+    "id": "hh-101",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlNakheel phc"
+  },
+  {
+    "id": "hh-102",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlNuwariah phc"
+  },
+  {
+    "id": "hh-103",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlQufaif phc"
+  },
+  {
+    "id": "hh-104",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Algeryyah phc"
+  },
+  {
+    "id": "hh-105",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlGawbaya phc"
+  },
+  {
+    "id": "hh-106",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Alrashidiah phc"
+  },
+  {
+    "id": "hh-107",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlRayan phc in Makkah"
+  },
+  {
+    "id": "hh-108",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlSulaimanya phc"
+  },
+  {
+    "id": "hh-109",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "ALTAKSUSY"
+  },
+  {
+    "id": "hh-110",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlTalaa phc"
+  },
+  {
+    "id": "hh-111",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlTaneem phc"
+  },
+  {
+    "id": "hh-112",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlOqlah phc in Makkah"
+  },
+  {
+    "id": "hh-113",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Al-Asilah PHC"
+  },
+  {
+    "id": "hh-114",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlOtaibiah phc"
+  },
+  {
+    "id": "hh-115",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlZaher phc"
+  },
+  {
+    "id": "hh-116",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlZymaa phc"
+  },
+  {
+    "id": "hh-117",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Asfan phc in Makkah"
+  },
+  {
+    "id": "hh-118",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Bahrah phc"
+  },
+  {
+    "id": "hh-119",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Batha Quraysh phc"
+  },
+  {
+    "id": "hh-120",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Gheran phc"
+  },
+  {
+    "id": "hh-121",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Hadda phc"
+  },
+  {
+    "id": "hh-122",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Heradh phc"
+  },
+  {
+    "id": "hh-123",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Harrat AlSharea phc"
+  },
+  {
+    "id": "hh-124",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Hada AlSham phc"
+  },
+  {
+    "id": "hh-125",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "EhalaAlolya"
+  },
+  {
+    "id": "hh-126",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Jaaranah phc"
+  },
+  {
+    "id": "hh-128",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Kudi and Hijra phc"
+  },
+  {
+    "id": "hh-129",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Almolgaiya PHC"
+  },
+  {
+    "id": "hh-130",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Madrakah phc"
+  },
+  {
+    "id": "hh-131",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlYamaniah phc"
+  },
+  {
+    "id": "hh-132",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Rahatt phc"
+  },
+  {
+    "id": "hh-133",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Shamanseer phc"
+  },
+  {
+    "id": "hh-134",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Shamiat Asfan phc"
+  },
+  {
+    "id": "hh-135",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Mukhatatat AlSharae 2 phc"
+  },
+  {
+    "id": "hh-136",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Mukhatatat AlSharae 7 phc"
+  },
+  {
+    "id": "hh-137",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Sharea AlHajj phc"
+  },
+  {
+    "id": "hh-138",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Sharae AlMujahedin phc"
+  },
+  {
+    "id": "hh-139",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Al Sharae Al Olya"
+  },
+  {
+    "id": "hh-140",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Setara phc"
+  },
+  {
+    "id": "hh-141",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Um AlJarm phc"
+  },
+  {
+    "id": "hh-142",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Um AlRaka phc"
+  },
+  {
+    "id": "hh-143",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Wadi Noaman phc"
+  },
+  {
+    "id": "hh-144",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Wadi Qudaid phc"
+  },
+  {
+    "id": "hh-145",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AalKatheer phc"
+  },
+  {
+    "id": "hh-146",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Abian AalSaleem phc"
+  },
+  {
+    "id": "hh-147",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Ahad Bani Zaid phc"
+  },
+  {
+    "id": "hh-148",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Alshawarida phc"
+  },
+  {
+    "id": "hh-149",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Alhabil PHC"
+  },
+  {
+    "id": "hh-150",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlKhaldiah phc in Alqunfutha"
+  },
+  {
+    "id": "hh-151",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlRayem Wmatwa phc"
+  },
+  {
+    "id": "hh-152",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Health center alsharqie"
+  },
+  {
+    "id": "hh-153",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Alshaeb PHC"
+  },
+  {
+    "id": "hh-154",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlSalhy phc"
+  },
+  {
+    "id": "hh-155",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlSulb phc"
+  },
+  {
+    "id": "hh-156",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Aleawamir PHC"
+  },
+  {
+    "id": "hh-157",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlFaejah phc"
+  },
+  {
+    "id": "hh-158",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Alfareeg Wassalama phc"
+  },
+  {
+    "id": "hh-159",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlGouz PHC"
+  },
+  {
+    "id": "hh-160",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMudailif phc"
+  },
+  {
+    "id": "hh-161",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "AlMuaggas phc"
+  },
+  {
+    "id": "hh-162",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Bani Sehaim phc"
+  },
+  {
+    "id": "hh-163",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Thalouth Amarah phc"
+  },
+  {
+    "id": "hh-164",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Thlwth bani eisaa PHC"
+  },
+  {
+    "id": "hh-165",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Thraiban phc"
+  },
+  {
+    "id": "hh-166",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Jouf Tohama phc"
+  },
+  {
+    "id": "hh-167",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Khamis Harb phc"
+  },
+  {
+    "id": "hh-168",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Doga Alola phc"
+  },
+  {
+    "id": "hh-169",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Doga AlThania phc"
+  },
+  {
+    "id": "hh-170",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Alsuffa Clinic"
+  },
+  {
+    "id": "hh-171",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Sabit aljarah PHC"
+  },
+  {
+    "id": "hh-172",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Sabat shumran PHC"
+  },
+  {
+    "id": "hh-173",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Sabia Baloma phc"
+  },
+  {
+    "id": "hh-174",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Eanikr phc"
+  },
+  {
+    "id": "hh-175",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Garb AlGouz phc"
+  },
+  {
+    "id": "hh-176",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Kiad PHC"
+  },
+  {
+    "id": "hh-177",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Nakhal PHC"
+  },
+  {
+    "id": "hh-179",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Ybs alqarn PHC"
+  },
+  {
+    "id": "hh-180",
+    "program": "hh",
+    "group": "PHCs",
+    "name": "Alsuffa phc"
+  },
+  {
+    "id": "rpp-181",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "King Abdul-Aziz Hospital"
+  },
+  {
+    "id": "rpp-182",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Hera General Hospital"
+  },
+  {
+    "id": "rpp-183",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Al-Noor Specialist Hospital"
+  },
+  {
+    "id": "rpp-184",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Maternity & Children Hospital"
+  },
+  {
+    "id": "rpp-185",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "King Abdulla Medical City"
+  },
+  {
+    "id": "rpp-186",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "King Faisal Hospital"
+  },
+  {
+    "id": "rpp-187",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Ibn Sina Hospital"
+  },
+  {
+    "id": "rpp-188",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Ajyad Emergency Hospital"
+  },
+  {
+    "id": "rpp-189",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Alkamel Hospital"
+  },
+  {
+    "id": "rpp-190",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Khulais General Hospital"
+  },
+  {
+    "id": "rpp-191",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Alqunfutha General Hospital"
+  },
+  {
+    "id": "rpp-192",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "South Alqunfutha Hospital"
+  },
+  {
+    "id": "rpp-193",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Namerah Hospital"
+  },
+  {
+    "id": "rpp-194",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Almudhailaf Hospital"
+  },
+  {
+    "id": "rpp-195",
+    "program": "rpp",
+    "group": "Government MOH Hospitals",
+    "name": "Thuraiban Hospital"
+  },
+  {
+    "id": "rpp-196",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Alsaedi Hospital"
+  },
+  {
+    "id": "rpp-197",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Dr. Awadd Albeshri Hospital"
+  },
+  {
+    "id": "rpp-198",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Saudi Germani Hospital"
+  },
+  {
+    "id": "rpp-199",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Bashrahil Hospital"
+  },
+  {
+    "id": "rpp-200",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Alshefa Hospital"
+  },
+  {
+    "id": "rpp-201",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Saudi National Hospital"
+  },
+  {
+    "id": "rpp-202",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Makkah Medical Hospital"
+  },
+  {
+    "id": "rpp-203",
+    "program": "rpp",
+    "group": "Private Hospitals",
+    "name": "Jiwar for Medical services hospital"
+  },
+  {
+    "id": "rpp-204",
+    "program": "rpp",
+    "group": "Non-MOH Government Hospital",
+    "name": "Security Forces Hospital"
+  },
+  {
+    "id": "rpp-205",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Sheraya Diaverum"
+  },
+  {
+    "id": "rpp-206",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Awali Diaverum"
+  },
+  {
+    "id": "rpp-207",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Khulais Daiverum"
+  },
+  {
+    "id": "rpp-208",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Qunfutha Diaverum"
+  },
+  {
+    "id": "rpp-209",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Gouz Diaverum"
+  },
+  {
+    "id": "rpp-210",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Nemerah Diaverum"
+  },
+  {
+    "id": "rpp-211",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Aziziyah Davita"
+  },
+  {
+    "id": "rpp-212",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Wellcare General medical complex"
+  },
+  {
+    "id": "rpp-213",
+    "program": "rpp",
+    "group": "HD Private Centers",
+    "name": "Umalqura HD"
+  },
+  {
+    "id": "rpp-214",
+    "program": "rpp",
+    "group": "HD Charity Centers",
+    "name": "specialized kidney center at sheffaa charity society"
+  },
+  {
+    "id": "rpp-215",
+    "program": "rpp",
+    "group": "HD Charity Centers",
+    "name": "Alrahman Charity Center"
+  },
+  {
+    "id": "rpp-216",
+    "program": "rpp",
+    "group": "HD Charity Centers",
+    "name": "Alsittin charity center"
+  },
+  {
+    "id": "rpp-217",
+    "program": "rpp",
+    "group": "HD Charity Centers",
+    "name": "Samir Alnajar Charity"
+  },
+  {
+    "id": "rpp-218",
+    "program": "rpp",
+    "group": "HD Charity Centers",
+    "name": "Albar Charity"
+  },
+  {
+    "id": "rpp-219",
+    "program": "rpp",
+    "group": "HD Charity Centers",
+    "name": "sulaiman charty Center"
+  },
+  {
+    "id": "phc_ica-001",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Abu Shuaib phc",
+    "arabicName": " أبو شعيب "
+  },
+  {
+    "id": "phc_ica-002",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Abu Orwah phc",
+    "arabicName": "أبو عروه"
+  },
+  {
+    "id": "phc_ica-003",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Ain Shams phc",
+    "arabicName": "عين شمس "
+  },
+  {
+    "id": "phc_ica-004",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlAdl phc",
+    "arabicName": "العدل "
+  },
+  {
+    "id": "phc_ica-005",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlAwali phc",
+    "arabicName": "العوالي"
+  },
+  {
+    "id": "phc_ica-006",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlAzizia AlSharqia phc",
+    "arabicName": "العزيزية الشرقية "
+  },
+  {
+    "id": "phc_ica-007",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlBarza phc",
+    "arabicName": "البرزه "
+  },
+  {
+    "id": "phc_ica-008",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlBuhairat phc",
+    "arabicName": "البحيرات"
+  },
+  {
+    "id": "phc_ica-009",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlBejaidi phc",
+    "arabicName": "البجيدي "
+  },
+  {
+    "id": "phc_ica-010",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlDawarah phc",
+    "arabicName": "الدوار"
+  },
+  {
+    "id": "phc_ica-011",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlDhabia w AlJumaa phc",
+    "arabicName": "الظبية والجمعه "
+  },
+  {
+    "id": "phc_ica-012",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlDhiafah phc",
+    "arabicName": "الضيافة"
+  },
+  {
+    "id": "phc_ica-013",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlFawarah phc in Makkah",
+    "arabicName": "الفواره"
+  },
+  {
+    "id": "phc_ica-014",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "ALGhareefien",
+    "arabicName": "الغريفين"
+  },
+  {
+    "id": "phc_ica-015",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlHajla phc",
+    "arabicName": "الهجلة"
+  },
+  {
+    "id": "phc_ica-016",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlHindawia phc Makkah",
+    "arabicName": "الهنداوية"
+  },
+  {
+    "id": "phc_ica-017",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlHanoo phc",
+    "arabicName": "الحنو"
+  },
+  {
+    "id": "phc_ica-018",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Al Hamimah phc",
+    "arabicName": "الحميمة"
+  },
+  {
+    "id": "phc_ica-019",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlHusainiah phc",
+    "arabicName": "الحسينية "
+  },
+  {
+    "id": "phc_ica-020",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlEskan phc",
+    "arabicName": "الإسكان"
+  },
+  {
+    "id": "phc_ica-021",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlJumoum phc",
+    "arabicName": "الجموم"
+  },
+  {
+    "id": "phc_ica-022",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlKaakeya phc",
+    "arabicName": "الكعكية"
+  },
+  {
+    "id": "phc_ica-023",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlKhalediah phc in Makkah",
+    "arabicName": "الخالدية بمكة"
+  },
+  {
+    "id": "phc_ica-024",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlKamel phc",
+    "arabicName": "الكامل"
+  },
+  {
+    "id": "phc_ica-025",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlKur shdad phc",
+    "arabicName": "الكر شداد "
+  },
+  {
+    "id": "phc_ica-026",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlKhadraa phc",
+    "arabicName": "الخضراء"
+  },
+  {
+    "id": "phc_ica-027",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlKhuwar phc",
+    "arabicName": "الخوار"
+  },
+  {
+    "id": "phc_ica-028",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMaabdeh phc",
+    "arabicName": "المعابدة"
+  },
+  {
+    "id": "phc_ica-029",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMadiq phc",
+    "arabicName": "المضيق"
+  },
+  {
+    "id": "phc_ica-030",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMalawii phc",
+    "arabicName": "الملاوي"
+  },
+  {
+    "id": "phc_ica-031",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMansour phc",
+    "arabicName": "المنصور"
+  },
+  {
+    "id": "phc_ica-032",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMagrah phc",
+    "arabicName": "المقرح"
+  },
+  {
+    "id": "phc_ica-033",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlEiyab w AlMazarea phc",
+    "arabicName": "العياب والمزارع "
+  },
+  {
+    "id": "phc_ica-034",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMedhat phc",
+    "arabicName": "المضحاه"
+  },
+  {
+    "id": "phc_ica-035",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlNakheel phc",
+    "arabicName": "النخيل"
+  },
+  {
+    "id": "phc_ica-036",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlNuwariah phc",
+    "arabicName": "النوارية "
+  },
+  {
+    "id": "phc_ica-037",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlQufaif phc",
+    "arabicName": "القفيف"
+  },
+  {
+    "id": "phc_ica-038",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Algeryyah phc",
+    "arabicName": "القرية"
+  },
+  {
+    "id": "phc_ica-039",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlGawbaya phc",
+    "arabicName": "القوبعية "
+  },
+  {
+    "id": "phc_ica-040",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Alrashidiah phc",
+    "arabicName": "الراشدية "
+  },
+  {
+    "id": "phc_ica-041",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlRayan phc in Makkah",
+    "arabicName": "الريان في مكة"
+  },
+  {
+    "id": "phc_ica-042",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlSulaimanya phc",
+    "arabicName": "السليمانية"
+  },
+  {
+    "id": "phc_ica-043",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "ALTAKSUSY",
+    "arabicName": "التخصصي "
+  },
+  {
+    "id": "phc_ica-044",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlTalaa phc",
+    "arabicName": "الطلعة"
+  },
+  {
+    "id": "phc_ica-045",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlTaneem phc",
+    "arabicName": "التنعيم"
+  },
+  {
+    "id": "phc_ica-046",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlOqlah phc in Makkah",
+    "arabicName": "العقلة "
+  },
+  {
+    "id": "phc_ica-047",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Al-Asilah PHC",
+    "arabicName": "العسيلة "
+  },
+  {
+    "id": "phc_ica-048",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlOtaibiah phc",
+    "arabicName": "العتيبية "
+  },
+  {
+    "id": "phc_ica-049",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlZaher phc",
+    "arabicName": "الزاهر"
+  },
+  {
+    "id": "phc_ica-050",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlZymaa phc",
+    "arabicName": "الزيماء"
+  },
+  {
+    "id": "phc_ica-051",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Asfan phc in Makkah",
+    "arabicName": "عسفان في مكة "
+  },
+  {
+    "id": "phc_ica-052",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Bahrah phc",
+    "arabicName": "بحره"
+  },
+  {
+    "id": "phc_ica-053",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Batha Quraysh phc",
+    "arabicName": "بطحاء قريش"
+  },
+  {
+    "id": "phc_ica-054",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Gheran phc",
+    "arabicName": "غران"
+  },
+  {
+    "id": "phc_ica-055",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Hadda phc",
+    "arabicName": "حدا"
+  },
+  {
+    "id": "phc_ica-056",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Heradh phc",
+    "arabicName": "حراض"
+  },
+  {
+    "id": "phc_ica-057",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Harrat AlSharea phc",
+    "arabicName": "حرة الشرع "
+  },
+  {
+    "id": "phc_ica-058",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Hada AlSham phc",
+    "arabicName": "هدى الشام"
+  },
+  {
+    "id": "phc_ica-059",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "EhalaAlolya",
+    "arabicName": "ايهالا العليا"
+  },
+  {
+    "id": "phc_ica-060",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Jaaranah phc",
+    "arabicName": "جعرانة "
+  },
+  {
+    "id": "phc_ica-061",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Khulais phc",
+    "arabicName": "خليص"
+  },
+  {
+    "id": "phc_ica-062",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Kudi and Hijra phc",
+    "arabicName": "كدى والهجرة"
+  },
+  {
+    "id": "phc_ica-063",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Almolgaiya PHC",
+    "arabicName": "ملقية"
+  },
+  {
+    "id": "phc_ica-064",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Madrakah phc",
+    "arabicName": "مدركة"
+  },
+  {
+    "id": "phc_ica-065",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlYamaniah phc",
+    "arabicName": "اليمانية"
+  },
+  {
+    "id": "phc_ica-066",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Rahatt phc",
+    "arabicName": "رهاط"
+  },
+  {
+    "id": "phc_ica-067",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Shamanseer phc",
+    "arabicName": "شمنصير"
+  },
+  {
+    "id": "phc_ica-068",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Shamiat Asfan phc",
+    "arabicName": "شامية عسفان"
+  },
+  {
+    "id": "phc_ica-069",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Mukhatatat AlSharae 2 phc",
+    "arabicName": "مخطط الشرائع 2"
+  },
+  {
+    "id": "phc_ica-070",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Mukhatatat AlSharae 7 phc",
+    "arabicName": "مخطط الشرائع 7"
+  },
+  {
+    "id": "phc_ica-071",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Sharea AlHajj phc",
+    "arabicName": "شارع الحج"
+  },
+  {
+    "id": "phc_ica-072",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Sharae AlMujahedin phc",
+    "arabicName": "شرائع المجاهدين"
+  },
+  {
+    "id": "phc_ica-073",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Al Sharae Al Olya",
+    "arabicName": "الشرائع العليا"
+  },
+  {
+    "id": "phc_ica-074",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Setara phc",
+    "arabicName": "ستارة"
+  },
+  {
+    "id": "phc_ica-075",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Um AlJarm phc",
+    "arabicName": "أم الجرم"
+  },
+  {
+    "id": "phc_ica-076",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Um AlRaka phc",
+    "arabicName": "أم راكه"
+  },
+  {
+    "id": "phc_ica-077",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Wadi Noaman phc",
+    "arabicName": "وادي نعمان"
+  },
+  {
+    "id": "phc_ica-078",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Wadi Qudaid phc",
+    "arabicName": "وادي قديد"
+  },
+  {
+    "id": "phc_ica-079",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AalKatheer phc",
+    "arabicName": "ال كثير"
+  },
+  {
+    "id": "phc_ica-080",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Abian AalSaleem phc",
+    "arabicName": "أبيان آل سليم"
+  },
+  {
+    "id": "phc_ica-081",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Ahad Bani Zaid phc",
+    "arabicName": "أحد بني زيد"
+  },
+  {
+    "id": "phc_ica-082",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Alshawarida phc",
+    "arabicName": "الجرد والشواردة "
+  },
+  {
+    "id": "phc_ica-083",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Alhabil PHC",
+    "arabicName": "الحبيل"
+  },
+  {
+    "id": "phc_ica-084",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlKhaldiah phc in Alqunfutha",
+    "arabicName": "الخالدية بالقنفذة"
+  },
+  {
+    "id": "phc_ica-085",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlRayem Wmatwa phc",
+    "arabicName": "الرايم وماطوة"
+  },
+  {
+    "id": "phc_ica-086",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Health center alsharqie",
+    "arabicName": "الشرقية "
+  },
+  {
+    "id": "phc_ica-087",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Alshaeb PHC",
+    "arabicName": "الشعب "
+  },
+  {
+    "id": "phc_ica-088",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlSalhy phc",
+    "arabicName": "الصالحي "
+  },
+  {
+    "id": "phc_ica-089",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlSulb phc",
+    "arabicName": "الصلب"
+  },
+  {
+    "id": "phc_ica-090",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Aleawamir PHC",
+    "arabicName": "العوامير"
+  },
+  {
+    "id": "phc_ica-091",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlFaejah phc",
+    "arabicName": "الفائجة"
+  },
+  {
+    "id": "phc_ica-092",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Alfareeg Wassalama phc",
+    "arabicName": "الفريق والسلامة "
+  },
+  {
+    "id": "phc_ica-093",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlGouz PHC",
+    "arabicName": "القوز"
+  },
+  {
+    "id": "phc_ica-094",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMudailif phc",
+    "arabicName": "المظيلف"
+  },
+  {
+    "id": "phc_ica-095",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "AlMuaggas phc",
+    "arabicName": "المعقص"
+  },
+  {
+    "id": "phc_ica-096",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Bani Sehaim phc",
+    "arabicName": "بني سهيم"
+  },
+  {
+    "id": "phc_ica-097",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Thalouth Amarah phc",
+    "arabicName": "ثلوث عمارة"
+  },
+  {
+    "id": "phc_ica-098",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Thlwth bani eisaa PHC",
+    "arabicName": "ثلاثا بني عيسى "
+  },
+  {
+    "id": "phc_ica-099",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Thraiban phc",
+    "arabicName": "ثريبان"
+  },
+  {
+    "id": "phc_ica-100",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Jouf Tohama phc",
+    "arabicName": "جوف تهامة"
+  },
+  {
+    "id": "phc_ica-101",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Khamis Harb phc",
+    "arabicName": "خميس حرب"
+  },
+  {
+    "id": "phc_ica-102",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Doga Alola phc",
+    "arabicName": "دوقة الأولى "
+  },
+  {
+    "id": "phc_ica-103",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Doga AlThania phc",
+    "arabicName": "دوقة الثانية "
+  },
+  {
+    "id": "phc_ica-104",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Alsuffa Clinic",
+    "arabicName": "ساحل حلي / alsuffa clinic"
+  },
+  {
+    "id": "phc_ica-105",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Sabit aljarah PHC",
+    "arabicName": "سبت الجارة"
+  },
+  {
+    "id": "phc_ica-106",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Sabat shumran PHC",
+    "arabicName": "سبت شمران"
+  },
+  {
+    "id": "phc_ica-107",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Sabia Baloma phc",
+    "arabicName": "سبت بلومه"
+  },
+  {
+    "id": "phc_ica-108",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Eanikr phc",
+    "arabicName": "عنيكر"
+  },
+  {
+    "id": "phc_ica-109",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Garb AlGouz phc",
+    "arabicName": "غرب القوز"
+  },
+  {
+    "id": "phc_ica-110",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Kiad PHC",
+    "arabicName": "كياد"
+  },
+  {
+    "id": "phc_ica-111",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Nakhal PHC",
+    "arabicName": "نخال"
+  },
+  {
+    "id": "phc_ica-112",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Namerah phc",
+    "arabicName": "نمره"
+  },
+  {
+    "id": "phc_ica-113",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Ybs alqarn PHC",
+    "arabicName": "يبس القرن"
+  },
+  {
+    "id": "phc_ica-114",
+    "program": "phc_ica",
+    "group": "PHCs",
+    "name": "Alsuffa phc",
+    "arabicName": "الصفة"
+  }
+]
